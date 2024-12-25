@@ -7,6 +7,7 @@
   zlib,
   ncurses,
   openssl,
+  jq,
 }:
 let
   version = "unstable-2023-08-09";
